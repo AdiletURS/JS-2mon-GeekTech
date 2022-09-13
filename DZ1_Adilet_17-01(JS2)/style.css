@@ -1,0 +1,21 @@
+.container {
+text-align: center;
+}
+.containerTwo{
+    width: 100vh;
+    margin: 50px auto;
+}
+
+.one{
+    position: relative;
+    height: 350px;
+    width: 600px;
+    background-color: aqua;
+}
+.two{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-top: 120px;
+}

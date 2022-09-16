@@ -1,0 +1,17 @@
+.containerTwo{
+    width: 100vh;
+    margin: 50px auto;
+}
+
+.one{
+    position: relative;
+    height: 580px;
+    width: 580px;
+    background-color: aqua;
+}
+.two{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
